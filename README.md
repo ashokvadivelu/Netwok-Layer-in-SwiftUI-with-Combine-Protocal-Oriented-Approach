@@ -8,3 +8,5 @@ Easily integrate with your existing Application for making Api Calls
 Easily Customizable base on your need.
 
 Not only for SwiftUI you can integrate with Swift Application as well
+
+MVVM Architecture based Approach
